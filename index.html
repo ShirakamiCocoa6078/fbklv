@@ -3,29 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>shirakami_Cocoa6078 개발공장</title>
+    <title data-key="title">shirakami_Cocoa6078 개발공장</title>
     <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>shirakami_Cocoa6078 개발공장</h1>
+        <h1 data-key="header_title">shirakami_Cocoa6078 개발공장</h1>
+        <div class="language-selector">
+            <select id="lang-select">
+                <option value="ko">한국어</option>
+                <option value="en">English</option>
+                <option value="ja">日本語</option>
+            </select>
+        </div>
     </header>
     <main>
         <section class="projects">
-            <h2>프로젝트</h2>
+            <h2 data-key="projects_title">프로젝트</h2>
             <div class="project-list">
                 <div class="project-item">
-                    <h3>Chunicalc(JP)</h3>
-                    <p>츄니즘 레이팅 계산기</p>
-                    <a href="https://chunicalc.vercel.app" target="_blank">바로가기</a>
+                    <h3 data-key="project_chunicalc_title">Chunicalc(JP)</h3>
+                    <p data-key="project_chunicalc_desc">츄니즘 레이팅 계산기</p>
+                    <a href="https://chunicalc.vercel.app" target="_blank" data-key="project_chunicalc_link">바로가기</a>
                 </div>
             </div>
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 shirakami_Cocoa6078. All rights reserved.</p>
+        <p data-key="footer_copyright">&copy; 2024 shirakami_Cocoa6078. All rights reserved.</p>
     </footer>
+    <script src="languages.js"></script>
     <script src="script.js"></script>
 </body>
 </html> 
