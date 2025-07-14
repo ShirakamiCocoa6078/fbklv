@@ -6,6 +6,9 @@ const translations = {
         "project_chunicalc_title": "Chunicalc(JP)",
         "project_chunicalc_desc": "츄니즘 레이팅 계산기",
         "project_chunicalc_link": "바로가기",
+        "project_chunicalc2_title": "Chunicalc2(JP)",
+        "project_chunicalc2_desc": "츄니즘 레이팅 계산기 2",
+        "project_chunicalc2_link": "바로가기",
         "footer_copyright": "&copy; 2024 shirakami_Cocoa6078. All rights reserved."
     },
     "en": {
@@ -15,6 +18,9 @@ const translations = {
         "project_chunicalc_title": "Chunicalc(JP)",
         "project_chunicalc_desc": "CHUNITHM Rating Calculator",
         "project_chunicalc_link": "Go to",
+        "project_chunicalc2_title": "Chunicalc2(JP)",
+        "project_chunicalc2_desc": "CHUNITHM Rating Calculator 2",
+        "project_chunicalc2_link": "Go to",
         "footer_copyright": "&copy; 2024 shirakami_Cocoa6078. All rights reserved."
     },
     "ja": {
@@ -24,6 +30,9 @@ const translations = {
         "project_chunicalc_title": "Chunicalc(JP)",
         "project_chunicalc_desc": "チュウニズムレーティング計算機",
         "project_chunicalc_link": "移動",
+        "project_chunicalc2_title": "Chunicalc2(JP)",
+        "project_chunicalc2_desc": "チュウニズムレーティング計算機 2",
+        "project_chunicalc2_link": "移動",
         "footer_copyright": "&copy; 2024 shirakami_Cocoa6078. All rights reserved."
     }
 };
